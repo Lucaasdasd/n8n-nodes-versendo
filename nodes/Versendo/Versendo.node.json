@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-versendo.versendo",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/Lucaasdasd/n8n-nodes-versendo?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://versendo.de/anleitungen/n8n"
+			}
+		]
+	}
+}
